@@ -53,6 +53,10 @@ export const i18n: Partial<GenericLanguages> = {
     decreaseLabel: 'Csökkentse a behúzást',
     increaseLabel: 'Behúzás növelése',
   },
+  is: {
+    decreaseLabel: 'Decrease Indent',
+    increaseLabel: 'Increase Indent',
+  },
   it: {
     decreaseLabel: 'Diminuisci rientro',
     increaseLabel: 'Aumenta Rientro',

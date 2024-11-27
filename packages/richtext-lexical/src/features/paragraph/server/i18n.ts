@@ -53,6 +53,10 @@ export const i18n: Partial<GenericLanguages> = {
     label: 'Bekezdés',
     label2: 'Normál szöveg',
   },
+  is: {
+    label: 'Paragraph',
+    label2: 'Normal Text',
+  },
   it: {
     label: 'Paragrafo',
     label2: 'Testo normale',

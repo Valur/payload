@@ -40,6 +40,9 @@ export const i18n: Partial<GenericLanguages> = {
   hu: {
     label: 'Feltöltés',
   },
+  is: {
+    label: 'Upload',
+  },
   it: {
     label: 'Carica',
   },

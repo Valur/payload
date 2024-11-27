@@ -40,6 +40,9 @@ export const i18n: Partial<GenericLanguages> = {
   hu: {
     label: 'Rendezetlen lista',
   },
+  is: {
+    label: 'Unordered List',
+  },
   it: {
     label: 'Elenco non ordinato',
   },

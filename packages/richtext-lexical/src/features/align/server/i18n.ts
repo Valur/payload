@@ -79,6 +79,12 @@ export const i18n: Partial<GenericLanguages> = {
     alignLeftLabel: 'Igazítás balra',
     alignRightLabel: 'Igazítás jobbra',
   },
+  is: {
+    alignCenterLabel: 'Align Center',
+    alignJustifyLabel: 'Align Justify',
+    alignLeftLabel: 'Align Left',
+    alignRightLabel: 'Align Right',
+  },
   it: {
     alignCenterLabel: 'Allinea al centro',
     alignJustifyLabel: 'Allinea Giustifica',

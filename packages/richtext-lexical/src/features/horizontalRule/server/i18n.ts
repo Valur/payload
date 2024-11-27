@@ -40,6 +40,9 @@ export const i18n: Partial<GenericLanguages> = {
   hu: {
     label: 'Vízszintes vonal',
   },
+  is: {
+    label: 'Horizontal Rule',
+  },
   it: {
     label: 'Regola Orizzontale',
   },
