@@ -14,7 +14,7 @@ export const isTranslations = {
     changePassword: 'Breyta lykilorði',
     checkYourEmailForPasswordReset:
       'Athugaðu pósthólfið þitt til að fá hlekk til að endursetja lykilorðið á öruggan hátt.',
-    confirmGeneration: 'Staðfestu sjálfval',
+    confirmGeneration: 'Staðfestu sjálfvirka myndun',
     confirmPassword: 'Staðfestu lykilorð',
     createFirstUser: 'Skrá fyrsta notanda',
     emailNotValid: 'Netfangið er ekki gilt',
@@ -30,10 +30,10 @@ export const isTranslations = {
     forgotPasswordQuestion: 'Gleymt lykilorð?',
     forgotPasswordUsernameInstructions:
       'Vinsamlega sláðu inn notandanafnið þitt. Leiðbeiningar um hvernig á að endursetja lykilorð verða sendar á netfang sem er skráð fyrir notandanafnið.',
-    generate: 'Búa til',
-    generateNewAPIKey: 'Búa til nýjan API lykil',
+    generate: 'Mynda sjálfvirkt',
+    generateNewAPIKey: 'Sjálfvirkt mynda nýjan API lykil',
     generatingNewAPIKeyWillInvalidate:
-      'Að búa til nýjan API lykil mun <1>óvirkja</1> fyrri lykil. Ertu viss um að halda áfram?',
+      'Að mynda nýjan API lykil mun <1>óvirkja</1> fyrri lykil. Ertu viss um að halda áfram?',
     lockUntil: 'Læsa þangað til',
     logBackIn: 'Innskrá aftur',
     loggedIn: 'Til að innsrká með öðrum notanda, þarftu að <0>útskrá</0> first.',
@@ -52,7 +52,7 @@ export const isTranslations = {
     logoutUser: 'Útskrá notanda',
     newAccountCreated:
       'Nýr aðgangur hefur verið stofnaður til að opna <a href="{{serverURL}}">{{serverURL}}</a> Vinsamlega smelltu á eftirfarandi hlekk eða afritaðu slóðina hér að neðan inn í vafrann þinn til að staðfesta netfangið þitt: <a href="{{verificationURL}}">{{verificationURL}}</a><br> Eftir að þú staðfestir netfangið munt þú geta innskráð þig.',
-    newAPIKeyGenerated: 'Nýr API lykill búinn til.',
+    newAPIKeyGenerated: 'Nýr API lykill myndaður.',
     newPassword: 'Nýtt lykilorð',
     passed: 'Auðkenning tókst',
     passwordResetSuccessfully: 'Lykilorð endursett.',
@@ -105,7 +105,7 @@ export const isTranslations = {
     noMatchedField: 'Enginn reitur fannst fyrir "{{label}}"',
     notAllowedToAccessPage: 'Þú hefur ekki aðgang að þessari síðu.',
     notAllowedToPerformAction: 'Þú hefur ekki heimild til að framkvæma þessa aðgerð.',
-    notFound: 'Umbeðin tilfang fannst ekki.',
+    notFound: 'Umbeðin vísun fannst ekki.',
     noUser: 'Enginn notandi',
     previewing: 'Villa kom upp við að forskoða færslu.',
     problemUploadingFile: 'Villa kom upp við að hlaða upp skrá.',
