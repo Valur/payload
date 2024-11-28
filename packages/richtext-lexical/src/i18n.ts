@@ -81,7 +81,7 @@ export const i18n: Partial<GenericLanguages> = {
   },
   is: {
     placeholder: "Byrjaðu að skrifa, eða ýttu á '/' fyrir skipanir...",
-    slashMenuBasicGroupLabel: 'Basic',
+    slashMenuBasicGroupLabel: 'Grunnliggjandi',
     slashMenuListGroupLabel: 'Listar',
     toolbarItemsActive: '{{count}} virk',
   },
