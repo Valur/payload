@@ -26,10 +26,10 @@ export const isTranslations = {
     forceUnlock: 'Þvinga aflæsingu',
     forgotPassword: 'Gleymt lykilorð',
     forgotPasswordEmailInstructions:
-      'Vinsamlegast sláðu inn netfangið þitt. Þú munt fá tölvupóst með leiðbeiningum um hvernig á að endursetja lykilorð.',
+      'Vinsamlega sláðu inn netfangið þitt. Þú munt fá tölvupóst með leiðbeiningum um hvernig á að endursetja lykilorð.',
     forgotPasswordQuestion: 'Gleymt lykilorð?',
     forgotPasswordUsernameInstructions:
-      'Vinsamlegast sláðu inn notandanafnið þitt. Leiðbeiningar um hvernig á að endursetja lykilorð verða sendar á netfang sem er skráð fyrir notandanafnið.',
+      'Vinsamlega sláðu inn notandanafnið þitt. Leiðbeiningar um hvernig á að endursetja lykilorð verða sendar á netfang sem er skráð fyrir notandanafnið.',
     generate: 'Búa til',
     generateNewAPIKey: 'Búa til nýjan API lykil',
     generatingNewAPIKeyWillInvalidate:
@@ -51,7 +51,7 @@ export const isTranslations = {
     logoutSuccessful: 'Útskráning tókst.',
     logoutUser: 'Útskrá notanda',
     newAccountCreated:
-      'Nýr aðgangur hefur verið stofnaður til að opna <a href="{{serverURL}}">{{serverURL}}</a> Vinsamlegast smelltu á eftirfarandi hlekk eða afritaðu slóðina hér að neðan inn í vafrann þinn til að staðfesta netfangið þitt: <a href="{{verificationURL}}">{{verificationURL}}</a><br> Eftir að þú staðfestir netfangið munt þú geta innskráð þig.',
+      'Nýr aðgangur hefur verið stofnaður til að opna <a href="{{serverURL}}">{{serverURL}}</a> Vinsamlega smelltu á eftirfarandi hlekk eða afritaðu slóðina hér að neðan inn í vafrann þinn til að staðfesta netfangið þitt: <a href="{{verificationURL}}">{{verificationURL}}</a><br> Eftir að þú staðfestir netfangið munt þú geta innskráð þig.',
     newAPIKeyGenerated: 'Nýr API lykill búinn til.',
     newPassword: 'Nýtt lykilorð',
     passed: 'Auðkenning tókst',
@@ -75,7 +75,7 @@ export const isTranslations = {
     youAreInactive:
       'Þú hefur verið óvirkur í smá tíma og munt fljótlega verða útsrkáður af öryggisástæðum. Viltu haldast innskráður?',
     youAreReceivingResetPassword:
-      'Þér var sent þetta vegna þess að þú (eða einhver annar) bað um að endursetja lykilorðið fyrir aðganginn þinn. Vinsamlegast smelltu á eftirfarandi hlekk, eða afritaðu hann í vafrann þinn til að klára ferlið:',
+      'Þér var sent þetta vegna þess að þú (eða einhver annar) bað um að endursetja lykilorðið fyrir aðganginn þinn. Vinsamlega smelltu á eftirfarandi hlekk, eða afritaðu hann í vafrann þinn til að klára ferlið:',
     youDidNotRequestPassword:
       'Ef þú baðst ekki um þetta, vinsamlega hunsaðu tölvupóstinn og lykilorðið þitt mun haldast óbreytt.',
   },
@@ -85,7 +85,7 @@ export const isTranslations = {
     correctInvalidFields: 'Vinsamlega leiðréttu rangt skráða reiti.',
     deletingFile: 'Villa kom upp við að eyða skrá.',
     deletingTitle:
-      'Villa kom upp við að eyða {{title}}. Vinsamlegast athugaðu tenginguna þína og prófaðu aftur.',
+      'Villa kom upp við að eyða {{title}}. Vinsamlega athugaðu tenginguna þína og prófaðu aftur.',
     emailOrPasswordIncorrect: 'Netfang eða lykilorð var ekki rétt slegið inn.',
     followingFieldsInvalid_one: 'Eftirfarandi reitur er rangt skráður:',
     followingFieldsInvalid_other: 'Eftirfarandi reitir eru rangt skráðir:',
@@ -390,8 +390,8 @@ export const isTranslations = {
     width: 'Breydd',
   },
   validation: {
-    emailAddress: 'Vinsamlegast sláðu inn gilt netfang.',
-    enterNumber: 'Vinsamlegast sláðu inn gilt númer.',
+    emailAddress: 'Vinsamlega sláðu inn gilt netfang.',
+    enterNumber: 'Vinsamlega sláðu inn gilt númer.',
     fieldHasNo: 'Þessi reitur hefur ekkert {{label}}',
     greaterThanMax: '{{value}} er meira en hámark {{label}} af {{max}}.',
     invalidInput: 'Þessi reitur hefur ógilt gildi.',
@@ -408,7 +408,7 @@ export const isTranslations = {
     shorterThanMax: 'Þetta gildi þarf að vera styttra en hámarkið {{maxLength}} stafir.',
     trueOrFalse: 'Þessi reitur getur bara verið rétt eða rangt.',
     username:
-      'Vinsamlegast sláðu inn gilt notandanafn. Getur innihaldið bókstafi, tölur, bandstrik, punkta og undirstrik.',
+      'Vinsamlega sláðu inn gilt notandanafn. Getur innihaldið bókstafi, tölur, bandstrik, punkta og undirstrik.',
     validUploadID: 'Þessi reitur er ekki gilt upphals ID.',
   },
   version: {
