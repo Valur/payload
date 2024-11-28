@@ -13,7 +13,7 @@ export const isTranslations = {
     beginCreateFirstUser: 'Til að byrja, skráðu þinn fyrsta notanda.',
     changePassword: 'Breyta lykilorði',
     checkYourEmailForPasswordReset:
-      'Athugaðu pósthólfið þitt til að fá hlekk til að endurstilla lykilorðið á öruggan hátt.',
+      'Athugaðu pósthólfið þitt til að fá hlekk til að endursetja lykilorðið á öruggan hátt.',
     confirmGeneration: 'Staðfestu sjálfval',
     confirmPassword: 'Staðfestu lykilorð',
     createFirstUser: 'Skrá fyrsta notanda',
@@ -168,7 +168,7 @@ export const isTranslations = {
     swapRelationship: 'Skipta út tengingu',
     swapUpload: 'Skipta út skrá',
     textToDisplay: 'Texti til að birta',
-    toggleBlock: 'Toggle blokk',
+    toggleBlock: 'Fletta blokk',
     uploadNewLabel: 'Hlaða upp nýju {{label}}',
   },
   general: {
