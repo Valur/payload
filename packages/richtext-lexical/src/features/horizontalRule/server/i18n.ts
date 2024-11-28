@@ -41,7 +41,7 @@ export const i18n: Partial<GenericLanguages> = {
     label: 'Vízszintes vonal',
   },
   is: {
-    label: 'Horizontal Rule',
+    label: 'Lárétt lína',
   },
   it: {
     label: 'Regola Orizzontale',

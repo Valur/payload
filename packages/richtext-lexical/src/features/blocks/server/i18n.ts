@@ -120,12 +120,12 @@ export const i18n: Partial<GenericLanguages> = {
   },
   is: {
     inlineBlocks: {
-      create: 'Create {{label}}',
-      edit: 'Edit {{label}}',
-      label: 'Inline Blocks',
-      remove: 'Remove {{label}}',
+      create: 'Skrá {{label}}',
+      edit: 'Breyta {{label}}',
+      label: 'Inline blokkir',
+      remove: 'Fjarlægja {{label}}',
     },
-    label: 'Blocks',
+    label: 'Blokkir',
   },
   it: {
     inlineBlocks: {

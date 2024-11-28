@@ -41,7 +41,7 @@ export const i18n: Partial<GenericLanguages> = {
     label: 'Idézetblokk',
   },
   is: {
-    label: 'Blockquote',
+    label: 'Tilvitnun',
   },
   it: {
     label: 'Citazione',

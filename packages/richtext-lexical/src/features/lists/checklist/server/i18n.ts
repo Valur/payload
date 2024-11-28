@@ -41,7 +41,7 @@ export const i18n: Partial<GenericLanguages> = {
     label: 'Ellenőrzőlista',
   },
   is: {
-    label: 'Check List',
+    label: 'Hak listi',
   },
   it: {
     label: 'Lista di controllo',

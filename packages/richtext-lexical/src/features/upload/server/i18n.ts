@@ -41,7 +41,7 @@ export const i18n: Partial<GenericLanguages> = {
     label: 'Feltöltés',
   },
   is: {
-    label: 'Upload',
+    label: 'Hlaða upp',
   },
   it: {
     label: 'Carica',

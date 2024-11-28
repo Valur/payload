@@ -80,10 +80,10 @@ export const i18n: Partial<GenericLanguages> = {
     toolbarItemsActive: '{{count}} aktív',
   },
   is: {
-    placeholder: "Start typing, or press '/' for commands...",
+    placeholder: "Byrjaðu að skrifa, eða ýttu á '/' fyrir skipanir...",
     slashMenuBasicGroupLabel: 'Basic',
-    slashMenuListGroupLabel: 'Lists',
-    toolbarItemsActive: '{{count}} active',
+    slashMenuListGroupLabel: 'Listar',
+    toolbarItemsActive: '{{count}} virk',
   },
   it: {
     placeholder: "Inizia a digitare, oppure premi '/' per i comandi...",

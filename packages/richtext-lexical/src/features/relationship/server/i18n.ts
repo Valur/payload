@@ -41,7 +41,7 @@ export const i18n: Partial<GenericLanguages> = {
     label: 'Kapcsolat',
   },
   is: {
-    label: 'Relationship',
+    label: 'Tenging',
   },
   it: {
     label: 'Relazione',

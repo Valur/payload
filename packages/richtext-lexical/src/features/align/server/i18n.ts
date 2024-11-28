@@ -80,10 +80,10 @@ export const i18n: Partial<GenericLanguages> = {
     alignRightLabel: 'Igazítás jobbra',
   },
   is: {
-    alignCenterLabel: 'Align Center',
-    alignJustifyLabel: 'Align Justify',
-    alignLeftLabel: 'Align Left',
-    alignRightLabel: 'Align Right',
+    alignCenterLabel: 'Miðju jöfnun',
+    alignJustifyLabel: 'Samræmd jöfnun',
+    alignLeftLabel: 'Vinstri jöfnun',
+    alignRightLabel: 'Hægri jöfnun',
   },
   it: {
     alignCenterLabel: 'Allinea al centro',

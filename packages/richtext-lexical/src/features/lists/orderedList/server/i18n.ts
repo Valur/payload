@@ -41,7 +41,7 @@ export const i18n: Partial<GenericLanguages> = {
     label: 'Rendelt lista',
   },
   is: {
-    label: 'Ordered List',
+    label: 'Raðaður listi',
   },
   it: {
     label: 'Elenco ordinato',
